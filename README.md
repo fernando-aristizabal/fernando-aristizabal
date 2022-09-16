@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif" width="200" height="200"/>
+  <img src="https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif" width="300" height="300"/>
 </div>
 
 ### :fire: My Stats :
