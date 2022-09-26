@@ -28,7 +28,7 @@ My technology stack includes Python, R, Bash, Linux, Matlab/Octave, C++, GDAL/OG
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fernando-aristizabal&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-aristizabal)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-aristizabal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **fernando-aristizabal/fernando-aristizabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
