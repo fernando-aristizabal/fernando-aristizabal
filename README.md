@@ -1,6 +1,4 @@
-<p align="right">
-  <img width="200" src="[https://your-gif-url-here](https://media.giphy.com/media/3o7WIB00yXujVt4WEo/giphy.gif?cid=ecf05e47wrpy7zjlejs6mndu7mgxsiy1yaxfcf3h2fluqsn8&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Earth" style="float: right; margin-left: 10px; margin-bottom: 10px;">
-</p>
+<iframe src="https://giphy.com/embed/3o7WIB00yXujVt4WEo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3o7WIB00yXujVt4WEo">via GIPHY</a></p>
 
 ### About me
 
