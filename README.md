@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red" alt=""/>
   </a>
   <a href="">
-    <img src="[https://img.shields.io/github/stars/fernando-aristizabal?style=social](https://img.shields.io/github/stars/fernando-aristizabal?style=for-the-badge)">
+    <img src=![GitHub User's stars](https://img.shields.io/github/stars/fernando-aristizabal?style=social)">
   </a>
 </div>
 
