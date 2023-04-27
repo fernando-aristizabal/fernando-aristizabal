@@ -37,7 +37,9 @@ I'm a data scientist with experience in:
     <img src="https://pulplearning.altervista.org/wp-content/uploads/2021/03/1280px-Scikit_learn_logo_small.svg_-500x385.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://www.educative.io/api/edpresso/shot/5890743479566336/image/4838123834966016" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
   </li>
-  <li> flood inundation mapping </li>
+  <li> flood inundation mapping
+  <img src="https://www.pinclipart.com/picdir/middle/202-2028609_useful-links-national-flood-insurance-program-logo-png.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+  </li>
   <li> statistical analysis and evaluations
     <img src="https://cdn1.iconfinder.com/data/icons/big-data-orchid-vol-2/256/Linear_Regression-512.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://assignmentpoint.com/wp-content/uploads/2016/05/Analysis-of-Variance.jpg" alt="Description of image" style="display:inline-block; width:50px;">
