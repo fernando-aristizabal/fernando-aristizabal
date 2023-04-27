@@ -1,4 +1,8 @@
-<iframe src="https://giphy.com/embed/3o7WIB00yXujVt4WEo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3o7WIB00yXujVt4WEo">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3o7WIB00yXujVt4WEo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p>
+  <a href="https://giphy.com/gifs/3o7WIB00yXujVt4WEo">via GIPHY
+  </a>
+</p>
 
 ### About me
 
