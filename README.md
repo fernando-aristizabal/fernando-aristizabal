@@ -32,9 +32,19 @@ I'm a data scientist with experience in:
     <img src="https://numfocus.org/wp-content/uploads/2018/09/xarray-logo-square.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://miro.medium.com/max/994/1*6NWwUDFzZzsgrJd3rjP9EQ.png" alt="Description of image" style="display:inline-block; width:50px"></li>
-  <li> machine learning </li>
+  <li> machine learning
+    <img src="http://penseeartificielle.fr/wp-content/uploads/2018/02/tensorflow-logo.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://pulplearning.altervista.org/wp-content/uploads/2021/03/1280px-Scikit_learn_logo_small.svg_-500x385.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://www.educative.io/api/edpresso/shot/5890743479566336/image/4838123834966016" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+  </li>
   <li> flood inundation mapping </li>
   <li> statistical analysis and evaluations </li>
+  <li> visualization
+    <img src="https://miro.medium.com/max/3200/1*8i6raEmyewy9GpI47nU1ew.png" alt="Description of image" style="display:inline-block; width:50px;">
+    <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://static.bokeh.org/branding/logos/bokeh-logo.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    
+  </li>
   <li> computing environments
     <img src="http://gisuser.com/wp-content/uploads/2018/08/2000px-Amazon_Web_Services_Logo.svg_.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://pluspng.com/img-png/digitalocean-logo-png-open-2000.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
