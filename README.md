@@ -39,5 +39,12 @@ My technology stack includes Python, R, Bash, Linux, Matlab/Octave, C++, GDAL/OG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-aristizabal&layout=compact&card_width=300&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
+<table>
+  <tr>
+    <td><img src="http://github-readme-streak-stats.herokuapp.com?user=fernando-aristizabal&theme=dark&background=000000&card_width=300"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-aristizabal&layout=compact&card_width=300&theme=dark&background=000000)"></td>
+  </tr>
+</table>
+
 
 -->
