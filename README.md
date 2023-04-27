@@ -1,9 +1,3 @@
-<p align="right">
-  <img src="https://media.giphy.com/media/3o7WIB00yXujVt4WEo/giphy-downsized-large.gif">
- </p>
-
-### About me
-
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue&style=plastic&logo=github"/>
