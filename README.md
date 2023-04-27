@@ -35,7 +35,7 @@ A major theme of the 21st century will be about developing a finer grain managem
 My technology stack includes Python, R, Bash, Linux, Matlab/Octave, C++, GDAL/OGR, QGIS, Scikit-Learn, Tensorflow, Docker, Git, AWS, Digital Ocean, LaTex, and more.
 
 ### :fire: My Stats :
-<table style="border-collapse: collapse;">
+<table border="0">
   <tr>
     <td><img src="http://github-readme-streak-stats.herokuapp.com?user=fernando-aristizabal&theme=dark&background=000000&card_width=300"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-aristizabal&layout=compact&card_width=300&theme=dark&background=000000)"></td>
