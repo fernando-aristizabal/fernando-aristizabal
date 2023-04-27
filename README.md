@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-Pubs-Blue">
   </a>
   <a href="">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red" alt=""/>
   </a>
 </div>
 
