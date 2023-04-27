@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/3o7WIB00yXujVt4WEo/giphy-downsized-large.gif" alt="Your GIF Description">
+<p align="right">
+  <img src="https://media.giphy.com/media/3o7WIB00yXujVt4WEo/giphy-downsized-large.gif" alt="Your GIF Description">
+ </p>
 
 ### About me
 
