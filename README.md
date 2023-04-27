@@ -59,11 +59,17 @@
     <img src="https://static.bokeh.org/branding/logos/bokeh-logo.png" alt="Description of image" style="display:inline-block; width:60px;">
     
   </li>
+  <li>
+    databases
+    <img src="https://i7.pngguru.com/preview/173/36/848/postgresql-logo-computer-software-database-open-source-vector-images.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://descomplicaqgis.com.br/wp-content/uploads/2021/03/logo-hot-postgis.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">    
+  </li>
   <li> computing environments
     <img src="http://gisuser.com/wp-content/uploads/2018/08/2000px-Amazon_Web_Services_Logo.svg_.png" alt="Description of image" style="display:inline-block; width:40px;">
     <img src="https://pluspng.com/img-png/digitalocean-logo-png-open-2000.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://pluspng.com/img-png/linux-logo-png-difference-between-linux-and-window-operating-system-linux-logo-860x854.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://www.pinclipart.com/picdir/middle/543-5433004_mac-os-logo-png-transparent-mac-os-logo.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://www.oreilly.com/content/wp-content/uploads/sites/2/2020/01/large_v-dark-212e499223241522b08a664ac16fd53e.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
   </li>
 </p>
 
