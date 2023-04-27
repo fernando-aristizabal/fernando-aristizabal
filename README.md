@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-Pubs-Blue">
   </a>
   <a href="">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red?style=plastic&logo=appveyor" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=red" alt=""/>
   </a>
   <a href="">
     <img src="https://img.shields.io/github/stars/fernando-aristizabal?style=social)">
