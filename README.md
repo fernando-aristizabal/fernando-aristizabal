@@ -1,10 +1,4 @@
 ## Fernando Aristizabal
-I'm a data scientist with experience in:
-- geospatial data and software
-- machine learning
-- flood inundation mapping
-- statistical analysis and evaluations
-- computational sciences
 
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
@@ -20,6 +14,13 @@ I'm a data scientist with experience in:
     <img src="https://img.shields.io/github/stars/fernando-aristizabal?style=social&logo=github)&theme=dark">
   </a>
 </div>
+
+I'm a data scientist with experience in:
+- geospatial data and software
+- machine learning
+- flood inundation mapping
+- statistical analysis and evaluations
+- computational sciences
 
 #### :fire: My Stats :
 <table cellspacing="0" cellpadding="0">
