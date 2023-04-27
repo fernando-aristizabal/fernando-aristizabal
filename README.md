@@ -18,11 +18,12 @@
 I'm a data scientist with experience in:
 <p>
   <li> geospatial data and software
-    <img src="https://www.qgis.ch/fr/nouvelles/publication-de-gdal-2.0/image_mini" alt="Description of image" style="display:inline-block; width:30px; height:30px;"> <img src="https://www.3liz.com/en/images/logo-qgis.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;"> <img src="https://numfocus.org/wp-content/uploads/2018/09/xarray-logo-square.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;"><img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" alt="Description of image" style="display:inline-block; width:30px"; height:30px;> </li>
+    <img src="https://www.qgis.ch/fr/nouvelles/publication-de-gdal-2.0/image_mini" alt="Description of image" style="display:inline-block; width:30px; height:30px;"> <img src="https://www.3liz.com/en/images/logo-qgis.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;"> <img src="https://numfocus.org/wp-content/uploads/2018/09/xarray-logo-square.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;"><img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;"> <img src="https://miro.medium.com/max/994/1*6NWwUDFzZzsgrJd3rjP9EQ.png" alt="Description of image" style="display:inline-block; width:50px"></li>
   <li> machine learning </li>
   <li> flood inundation mapping </li>
   <li> statistical analysis and evaluations </li>
   <li> computational sciences </li>
+  <li> cloud technologies </li>
 </p>
 
 
