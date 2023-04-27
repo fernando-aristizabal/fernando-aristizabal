@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=red&logo=github" alt=""/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/stars/fernando-aristizabal?style=social&logo=github)">
+    <img src="https://img.shields.io/github/stars/fernando-aristizabal?style=social&logo=github)&theme=dark">
   </a>
 </div>
 
