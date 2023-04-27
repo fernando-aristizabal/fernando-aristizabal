@@ -1,4 +1,4 @@
-## Fernando 
+## Fernando Aristizabal
 I'm a data scientist with experience in:
 - geospatial data and software
 - machine learning
