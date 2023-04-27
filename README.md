@@ -2,13 +2,13 @@
 
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
-    <img src="https://img.shields.io/badge/LinkedIn-profile-informational"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational"/>
   </a>
   <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
     <img src="https://img.shields.io/badge/Google%20Scholar-Pubs-Blue">
   </a>
   <a href="">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=red?style=plastic&logo=appveyor" alt=""/>
   </a>
   <a href="">
     <img src="https://img.shields.io/github/stars/fernando-aristizabal?style=social)">
