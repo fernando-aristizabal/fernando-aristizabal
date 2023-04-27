@@ -63,7 +63,8 @@
   </li>
   <li>
     databases
-    <img src="https://descomplicaqgis.com.br/wp-content/uploads/2021/03/logo-hot-postgis.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">    
+    <img src="https://academy.hsoub.com/uploads/monthly_2015_08/postgresql-logo.thumb.png.f8158339b3dc5cbd886ce33bdd423931.png" alt="Description of image" style="display:inline-block; width:50px;">
+    <img src="https://luminfire.com/wp-content/uploads/2017/12/PostGis_Logo.png" alt="Description of image" style="display:inline-block; width:50px;">  
   </li>
   <li> computing environments
     <img src="http://gisuser.com/wp-content/uploads/2018/08/2000px-Amazon_Web_Services_Logo.svg_.png" alt="Description of image" style="display:inline-block; width:40px;">
