@@ -7,6 +7,7 @@
   <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
     <img src="https://img.shields.io/badge/Google%20Scholar-Pubs-Blue">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 #### Who I am:
@@ -23,9 +24,6 @@ A major theme of the 21st century will be about developing a finer grain managem
 
 #### My tools:
 My technology stack includes Python, R, Bash, Linux, Matlab/Octave, C++, GDAL/OGR, QGIS, Scikit-Learn, Tensorflow, Docker, Git, AWS, Digital Ocean, LaTex, and more.
-
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fernando-aristizabal&theme=dark&background=000000)](https://git.io/streak-stats)
