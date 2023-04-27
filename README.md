@@ -1,5 +1,10 @@
 ## Fernando 
-I'm a data scientist interesting in working in the geospatial domain with machine learning, remote sensing, statistics, flood inundation mapping, and more. 
+I'm a data scientist with experience in:
+- geospatial data and software
+- machine learning
+- flood inundation mapping
+- statistical analysis and evaluations
+- computational sciences
 
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
