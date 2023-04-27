@@ -18,8 +18,7 @@
 I'm a data scientist with experience in:
 <p>
   - geospatial data and software
-  <img src="https://www.qgis.ch/fr/nouvelles/publication-de-gdal-2.0/image_mini" alt="Description of image" style="display:inline-block; width:100px; height:100px;">
-  The text continues after the image.
+  <img src="https://www.qgis.ch/fr/nouvelles/publication-de-gdal-2.0/image_mini" alt="Description of image" style="display:inline-block; width:10px; height:10px;">
 </p>
 - machine learning
 - flood inundation mapping
