@@ -54,9 +54,9 @@
     <img src="https://static.vecteezy.com/system/resources/previews/002/103/670/non_2x/scientific-method-and-hypothesis-testing-color-icon-vector.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
   </li>
   <li> visualization
-    <img src="https://miro.medium.com/max/3200/1*8i6raEmyewy9GpI47nU1ew.png" alt="Description of image" style="display:inline-block; width:50px;">
+    <img src="https://miro.medium.com/max/3200/1*8i6raEmyewy9GpI47nU1ew.png" alt="Description of image" style="display:inline-block; width:60px;">
     <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
-    <img src="https://static.bokeh.org/branding/logos/bokeh-logo.png" alt="Description of image" style="display:inline-block; width:50px;">
+    <img src="https://static.bokeh.org/branding/logos/bokeh-logo.png" alt="Description of image" style="display:inline-block; width:60px;">
     
   </li>
   <li> computing environments
