@@ -15,7 +15,7 @@
   </a>
 </div>
 
-I'm a data scientist with experience in:
+##### I'm a data scientist with experience in:
 <p>
   <li> programming languages 
     <img src="https://2.bp.blogspot.com/-pQ3fac19z9Y/W0dIQ0mOI3I/AAAAAAAAA_4/cUwaAH-x_doRMCztJ-pXU4IELx9DWzErQCLcBGAs/s1600/Python%2Blogo2.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
