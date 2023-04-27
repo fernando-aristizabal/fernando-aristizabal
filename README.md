@@ -20,6 +20,10 @@ I'm a data scientist with experience in:
   <li> programming languages 
     <img src="https://2.bp.blogspot.com/-pQ3fac19z9Y/W0dIQ0mOI3I/AAAAAAAAA_4/cUwaAH-x_doRMCztJ-pXU4IELx9DWzErQCLcBGAs/s1600/Python%2Blogo2.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="http://www.lindinglab.org/external-files/images/Rlogo1.png/image" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://fresheropenings.com/wp-content/uploads/2021/03/Free-C-Certification-Course-2.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://open.agh.edu.pl/wp-content/uploads/2009/11/Matlab_Logo-600x539.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/latex-logo-png-transparent.png" alt="Description of image" style="display:inline-block; width:50px;">
+    <img src="https://www.kindpng.com/picc/m/168-1682787_bash-logo-shell-script-logo-hd-png-download.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
   </li>
   <li> geospatial data and software
     <img src="https://www.qgis.ch/fr/nouvelles/publication-de-gdal-2.0/image_mini" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
@@ -31,9 +35,9 @@ I'm a data scientist with experience in:
   <li> flood inundation mapping </li>
   <li> statistical analysis and evaluations </li>
   <li> computational sciences </li>
-  <li> cloud technologies </li>
+  <li> computing environments 
+  </li>
 </p>
-
 
 #### :fire: My Stats :
 <table cellspacing="0" cellpadding="0">
