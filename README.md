@@ -40,6 +40,10 @@
   <li> flood inundation mapping
   <img src="https://www.pinclipart.com/picdir/middle/202-2028609_useful-links-national-flood-insurance-program-logo-png.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
   </li>
+  <li> remote sensing
+  <img src="https://p7.hiclipart.com/preview/262/819/757/european-space-agency-logo-agence-spatiale-space-logo.jpg" alt="Description of image" style="display:inline-block; width:50px;">
+  <img src="https://mlinqs.net/wp-content/uploads/2018/01/NASA_Logo-1285x1068.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+  </li>
   <li> statistical analysis and evaluations
     <img src="https://cdn1.iconfinder.com/data/icons/big-data-orchid-vol-2/256/Linear_Regression-512.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://assignmentpoint.com/wp-content/uploads/2016/05/Analysis-of-Variance.jpg" alt="Description of image" style="display:inline-block; width:50px;">
