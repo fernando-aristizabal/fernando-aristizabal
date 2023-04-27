@@ -1,3 +1,6 @@
+## Fernando 
+I'm a data scientist interesting in working in the geospatial domain with machine learning, remote sensing, statistics, flood inundation mapping, and more. 
+
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue&style=plastic&logo=github"/>
@@ -21,21 +24,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=fernando-aristizabal&show_icons=true"></td>
   </tr>
 </table>
-
-#### Who I am:
-An adaptable, interdisciplinary scientist that tackles problems at the nexus of remote sensing, hydrology, agriculture, and the environment through the use of empirical computational techniques such as physics-based modeling, statistics, machine learning, data science, geospatial software, cloud computing, and high performance computing.
-
-#### What I do:
-Develop authoritative methods under contract with NOAA for generating flood inundation maps from both remote sensing and forecast hydrology models at large scales and high resolutions. These maps are used for issuing public warnings and near-realtime intelligence.
-
-#### My side project:
-Estimating stable and efficient solutions for partial differential equations relevant to hydrology utilizing deep learning.
-
-#### My motivator:
-A major theme of the 21st century will be about developing a finer grain management of natural resources and adapting to increasing environmental risks to build resilience and advance the human condition.
-
-#### My tools:
-My technology stack includes Python, R, Bash, Linux, Matlab/Octave, C++, GDAL/OGR, QGIS, Scikit-Learn, Tensorflow, Docker, Git, AWS, Digital Ocean, LaTex, and more.
 
 ### My recent GitHub activity
 
