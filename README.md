@@ -42,11 +42,11 @@ I'm a data scientist with experience in:
   <li> visualization
     <img src="https://miro.medium.com/max/3200/1*8i6raEmyewy9GpI47nU1ew.png" alt="Description of image" style="display:inline-block; width:50px;">
     <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
-    <img src="https://static.bokeh.org/branding/logos/bokeh-logo.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://static.bokeh.org/branding/logos/bokeh-logo.png" alt="Description of image" style="display:inline-block; width:50px;">
     
   </li>
   <li> computing environments
-    <img src="http://gisuser.com/wp-content/uploads/2018/08/2000px-Amazon_Web_Services_Logo.svg_.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="http://gisuser.com/wp-content/uploads/2018/08/2000px-Amazon_Web_Services_Logo.svg_.png" alt="Description of image" style="display:inline-block; width:40px;">
     <img src="https://pluspng.com/img-png/digitalocean-logo-png-open-2000.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://pluspng.com/img-png/linux-logo-png-difference-between-linux-and-window-operating-system-linux-logo-860x854.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://www.pinclipart.com/picdir/middle/543-5433004_mac-os-logo-png-transparent-mac-os-logo.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
