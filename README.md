@@ -19,7 +19,7 @@
   </a>
 </div>
 
-### :fire: My Stats :
+#### :fire: My Stats :
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="http://github-readme-streak-stats.herokuapp.com?user=fernando-aristizabal&theme=dark&background=000000&card_width=300"></td>
@@ -42,7 +42,7 @@ A major theme of the 21st century will be about developing a finer grain managem
 #### My tools:
 My technology stack includes Python, R, Bash, Linux, Matlab/Octave, C++, GDAL/OGR, QGIS, Scikit-Learn, Tensorflow, Docker, Git, AWS, Digital Ocean, LaTex, and more.
 
-## My recent GitHub activity
+### My recent GitHub activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
