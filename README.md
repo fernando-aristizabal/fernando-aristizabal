@@ -19,9 +19,14 @@ I'm a data scientist with experience in:
 <p>
   <li> programming languages 
     <img src="https://2.bp.blogspot.com/-pQ3fac19z9Y/W0dIQ0mOI3I/AAAAAAAAA_4/cUwaAH-x_doRMCztJ-pXU4IELx9DWzErQCLcBGAs/s1600/Python%2Blogo2.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="http://www.lindinglab.org/external-files/images/Rlogo1.png/image" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
   </li>
   <li> geospatial data and software
-    <img src="https://www.qgis.ch/fr/nouvelles/publication-de-gdal-2.0/image_mini" alt="Description of image" style="display:inline-block; width:30px; height:30px;"> <img src="https://www.3liz.com/en/images/logo-qgis.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;"> <img src="https://numfocus.org/wp-content/uploads/2018/09/xarray-logo-square.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;"><img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;"> <img src="https://miro.medium.com/max/994/1*6NWwUDFzZzsgrJd3rjP9EQ.png" alt="Description of image" style="display:inline-block; width:50px"></li>
+    <img src="https://www.qgis.ch/fr/nouvelles/publication-de-gdal-2.0/image_mini" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://www.3liz.com/en/images/logo-qgis.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://numfocus.org/wp-content/uploads/2018/09/xarray-logo-square.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://miro.medium.com/max/994/1*6NWwUDFzZzsgrJd3rjP9EQ.png" alt="Description of image" style="display:inline-block; width:50px"></li>
   <li> machine learning </li>
   <li> flood inundation mapping </li>
   <li> statistical analysis and evaluations </li>
