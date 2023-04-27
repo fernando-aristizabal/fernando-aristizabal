@@ -38,7 +38,12 @@ I'm a data scientist with experience in:
     <img src="https://www.educative.io/api/edpresso/shot/5890743479566336/image/4838123834966016" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
   </li>
   <li> flood inundation mapping </li>
-  <li> statistical analysis and evaluations </li>
+  <li> statistical analysis and evaluations
+    <img src="https://cdn1.iconfinder.com/data/icons/big-data-orchid-vol-2/256/Linear_Regression-512.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://assignmentpoint.com/wp-content/uploads/2016/05/Analysis-of-Variance.jpg" alt="Description of image" style="display:inline-block; width:50px;">
+    <img src="https://ac-101708228-virtuoso-prod.s3.amazonaws.com/uploads/course/course_image/56/7-time-series-analysis.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://static.vecteezy.com/system/resources/previews/002/103/670/non_2x/scientific-method-and-hypothesis-testing-color-icon-vector.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+  </li>
   <li> visualization
     <img src="https://miro.medium.com/max/3200/1*8i6raEmyewy9GpI47nU1ew.png" alt="Description of image" style="display:inline-block; width:50px;">
     <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
