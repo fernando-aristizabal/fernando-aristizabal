@@ -24,6 +24,7 @@ I'm a data scientist with experience in:
     <img src="https://open.agh.edu.pl/wp-content/uploads/2009/11/Matlab_Logo-600x539.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://logbuch.c-base.org/wp-content/uploads/2011/10/latex.png" alt="Description of image" style="display:inline-block; width:50px;">
     <img src="https://www.kindpng.com/picc/m/168-1682787_bash-logo-shell-script-logo-hd-png-download.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://www.fullstackpython.com/img/logos/zsh.jpg" alt="Description of image" style="display:inline-block; width:50px;">
   </li>
   <li> geospatial data and software
     <img src="https://www.qgis.ch/fr/nouvelles/publication-de-gdal-2.0/image_mini" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
@@ -34,8 +35,11 @@ I'm a data scientist with experience in:
   <li> machine learning </li>
   <li> flood inundation mapping </li>
   <li> statistical analysis and evaluations </li>
-  <li> computational sciences </li>
-  <li> computing environments 
+  <li> computing environments
+    <img src="http://gisuser.com/wp-content/uploads/2018/08/2000px-Amazon_Web_Services_Logo.svg_.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://pluspng.com/img-png/digitalocean-logo-png-open-2000.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://pluspng.com/img-png/linux-logo-png-difference-between-linux-and-window-operating-system-linux-logo-860x854.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://www.pinclipart.com/picdir/middle/543-5433004_mac-os-logo-png-transparent-mac-os-logo.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
   </li>
 </p>
 
