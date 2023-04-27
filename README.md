@@ -45,7 +45,7 @@
   <img src="https://mlinqs.net/wp-content/uploads/2018/01/NASA_Logo-1285x1068.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://res.cloudinary.com/teepublic/image/private/s--H00xWYfO--/t_Preview/b_rgb:c8e0ec,c_limit,f_jpg,h_630,q_90,w_630/v1480194469/production/designs/642184_2.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="http://www.igik.edu.pl/upload/Image/teledetekcja/bazy-danych/terra_modis.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
-    <img src="http://www.esa.int/eologos/images/sentinel-1_neg.jpg" alt="Description of image" style="display:inline-block; width:50px; height:30px">
+    <img src="http://www.esa.int/eologos/images/sentinel-1_neg.jpg" alt="Description of image" style="display:inline-block; width:50px; height:25px">
   </li>
   <li> statistical analysis and evaluations
     <img src="https://cdn1.iconfinder.com/data/icons/big-data-orchid-vol-2/256/Linear_Regression-512.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
