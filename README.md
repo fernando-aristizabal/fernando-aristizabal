@@ -20,6 +20,9 @@ My technology stack includes Python, R, Bash, Linux, Matlab/Octave, C++, GDAL/OG
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Pubs-Blue">
+  </a>
 </div>
 
 
