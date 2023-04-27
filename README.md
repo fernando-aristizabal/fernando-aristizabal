@@ -18,6 +18,7 @@
   <tr>
     <td><img src="http://github-readme-streak-stats.herokuapp.com?user=fernando-aristizabal&theme=dark&background=000000&card_width=300"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-aristizabal&layout=compact&card_width=300&theme=dark&background=000000)"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=fernando-aristizabal&show_icons=true"></td>
   </tr>
 </table>
 
