@@ -1,5 +1,14 @@
 ### About me
 
+<div id="badges">
+  <a href="http://www.linkedin.com/in/fernando-aristizabal">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Pubs-Blue">
+  </a>
+</div>
+
 #### Who I am:
 An adaptable, interdisciplinary scientist that tackles problems at the nexus of remote sensing, hydrology, agriculture, and the environment through the use of empirical computational techniques such as physics-based modeling, statistics, machine learning, data science, geospatial software, cloud computing, and high performance computing.
 
@@ -14,16 +23,6 @@ A major theme of the 21st century will be about developing a finer grain managem
 
 #### My tools:
 My technology stack includes Python, R, Bash, Linux, Matlab/Octave, C++, GDAL/OGR, QGIS, Scikit-Learn, Tensorflow, Docker, Git, AWS, Digital Ocean, LaTex, and more.
-
-[Google Scholar](https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao)
-<div id="badges">
-  <a href="http://www.linkedin.com/in/fernando-aristizabal">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Pubs-Blue">
-  </a>
-</div>
 
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
