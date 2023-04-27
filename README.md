@@ -16,7 +16,11 @@
 </div>
 
 I'm a data scientist with experience in:
-- geospatial data and software
+<p>
+  - geospatial data and software
+  <img src="https://www.qgis.ch/fr/nouvelles/publication-de-gdal-2.0/image_mini" alt="Description of image" style="display:inline-block; width:100px; height:100px;">
+  The text continues after the image.
+</p>
 - machine learning
 - flood inundation mapping
 - statistical analysis and evaluations
