@@ -1,5 +1,5 @@
 <p align="right">
-  <iframe src="https://giphy.com/embed/3o7WIB00yXujVt4WEo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3o7WIB00yXujVt4WEo">
+    <img src="https://media.giphy.com/media/KecanG5Y9XjzYXP0JL/giphy.gif" width="30">
 </p>
 
 ### About me
