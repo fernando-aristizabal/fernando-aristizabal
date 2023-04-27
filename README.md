@@ -7,7 +7,9 @@
   <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
     <img src="https://img.shields.io/badge/Google%20Scholar-Pubs-Blue">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  </a>
 </div>
 
 #### Who I am:
