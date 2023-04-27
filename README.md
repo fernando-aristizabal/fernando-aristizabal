@@ -22,7 +22,7 @@ I'm a data scientist with experience in:
     <img src="http://www.lindinglab.org/external-files/images/Rlogo1.png/image" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://fresheropenings.com/wp-content/uploads/2021/03/Free-C-Certification-Course-2.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://open.agh.edu.pl/wp-content/uploads/2009/11/Matlab_Logo-600x539.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/latex-logo-png-transparent.png" alt="Description of image" style="display:inline-block; width:50px;">
+    <img src="https://logbuch.c-base.org/wp-content/uploads/2011/10/latex.png" alt="Description of image" style="display:inline-block; width:50px;">
     <img src="https://www.kindpng.com/picc/m/168-1682787_bash-logo-shell-script-logo-hd-png-download.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
   </li>
   <li> geospatial data and software
