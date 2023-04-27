@@ -2,7 +2,7 @@
 
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-profile-informational"/>
   </a>
   <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
     <img src="https://img.shields.io/badge/Google%20Scholar-Pubs-Blue">
