@@ -61,7 +61,7 @@
   </li>
   <li>
     databases
-    <img src="https://i7.pngguru.com/preview/173/36/848/postgresql-logo-computer-software-database-open-source-vector-images.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://i7.pngguru.com/preview/173/36/848/postgresql-logo-computer-software-database-open-source-vector-images.jpg" alt="Description of image" style="display:inline-block; width:50px; height:30px;">
     <img src="https://descomplicaqgis.com.br/wp-content/uploads/2021/03/logo-hot-postgis.jpg" alt="Description of image" style="display:inline-block; width:30px; height:30px;">    
   </li>
   <li> computing environments
