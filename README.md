@@ -63,7 +63,7 @@
   </li>
   <li>
     databases
-    <img src="https://academy.hsoub.com/uploads/monthly_2015_08/postgresql-logo.thumb.png.f8158339b3dc5cbd886ce33bdd423931.png" alt="Description of image" style="display:inline-block; width:50px;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.SsAiH_CwhWvDyWpPFab74gHaC1%26pid%3DApi&f=1&ipt=6cacb799dd57d0e669d8598777642d02e520842b44e8c6a65eb7d56865a2d495&ipo=images" alt="Description of image" style="display:inline-block; width:50px;">
     <img src="https://luminfire.com/wp-content/uploads/2017/12/PostGis_Logo.png" alt="Description of image" style="display:inline-block; width:50px;">  
   </li>
   <li> computing environments
