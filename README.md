@@ -91,5 +91,3 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=fernando-aristizabal&show_icons=true"></td>
   </tr>
 </table>
-
-<hr style="border: 2px solid red;">
