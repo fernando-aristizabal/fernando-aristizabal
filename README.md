@@ -65,7 +65,11 @@
     <img src="https://miro.medium.com/max/3200/1*8i6raEmyewy9GpI47nU1ew.png" alt="Description of image" style="display:inline-block; width:60px;">
     <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://wiki.bokeh-library-portal.org/images/6/65/Bokeh.png" alt="Description of image" style="display:inline-block; width:60px;">
-    
+    <a href="https://scitools.org.uk/cartopy/docs/latest/index.html">
+      <img src="https://scitools.org.uk/cartopy/docs/v0.9/_images/logo_01_00.png" alt="Description of image" style="display:inline-block; width:60px;">
+    </a>
+    <a href="https://python-visualization.github.io/folium/">
+      <img src="https://python-visualization.github.io/folium/_images/folium_logo.jpg" alt="Description of image" style="display:inline-block; width:40px;">
   </li>
   <li>
     databases
@@ -78,6 +82,15 @@
     <img src="https://pluspng.com/img-png/linux-logo-png-difference-between-linux-and-window-operating-system-linux-logo-860x854.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://www.pinclipart.com/picdir/middle/543-5433004_mac-os-logo-png-transparent-mac-os-logo.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
     <img src="https://www.oreilly.com/content/wp-content/uploads/sites/2/2020/01/large_v-dark-212e499223241522b08a664ac16fd53e.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+  </li>
+  <li> AI Tools
+    <a href="https://openai.com/blog/chatgpt">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png" alt="Description of image" style="display:inline-block; width:30px; height:30px;">
+    </a>
+    <a href="https://github.com/features/copilot">
+      <img src="https://content.dsp.co.uk/hs-fs/hubfs/copilotlogo.png?width=615&name=copilotlogo.png" alt="Description of image" style="display:inline-block; width:60px;">
+    </a>
+  
   </li>
 </p>
 
