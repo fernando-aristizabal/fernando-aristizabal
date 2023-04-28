@@ -5,7 +5,7 @@
     <img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" style="display:inline-block; width:70px;"/>
   </a>
   <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
-    <img src="https://hwi.buffalo.edu/wp-content/uploads/2018/07/Google_Scholar_logo.svg_.png" style="display:inline-block; width:70px;">
+    <img src="http://www.jirte.org/files/20/editor/images/transparent-google-scholar-logo-png-google-scholar-png-1639_649.png" style="display:inline-block; width:70px;">
   </a>
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=red&logo=github" alt=""/>
