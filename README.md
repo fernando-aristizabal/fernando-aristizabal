@@ -17,7 +17,7 @@
 
 <hr style="border: 2px solid red;">
 
-##### I'm a data scientist with experience in:
+### I'm a data scientist with experience in:
 <p>
   <li> programming languages
     <a href="https://www.python.org">
