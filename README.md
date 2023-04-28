@@ -2,7 +2,7 @@
 
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
-    <img src="https://i2.wp.com/www.vectorico.com/wp-content/uploads/2018/02/Linkedin-full-logo.png" style="display:inline-block; width:70px;"/>
+    <img src="https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" style="display:inline-block; width:70px;"/>
   </a>
   <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
     <img src="https://hwi.buffalo.edu/wp-content/uploads/2018/07/Google_Scholar_logo.svg_.png" style="display:inline-block; width:70px;">
