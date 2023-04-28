@@ -2,10 +2,10 @@
 
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" style="display:inline-block; width:30px; height:30px;"/>
+    <img src="https://i2.wp.com/www.vectorico.com/wp-content/uploads/2018/02/Linkedin-full-logo.png" style="display:inline-block; width:70px;"/>
   </a>
   <a href="https://scholar.google.com/citations?user=NRtvSKcAAAAJ&hl=en&oi=ao">
-    <img src="https://www.kindpng.com/picc/m/369-3690860_google-scholar-icon-google-scholar-logo-hd-png.png" style="display:inline-block; width:30px; height:30px;">
+    <img src="https://hwi.buffalo.edu/wp-content/uploads/2018/07/Google_Scholar_logo.svg_.png" style="display:inline-block; width:70px;">
   </a>
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic&color=red&logo=github" alt=""/>
