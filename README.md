@@ -1,10 +1,4 @@
-## Fernando Aristizabal
-
-<div class="center">
-  <span>Naturally Curious</span> • <span>Persistant</span> • <span>Detail Oriented</span>
-</div>
-
-<hr style="border: 2px solid red;">
+### Fernando Aristizabal
 
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
@@ -20,6 +14,8 @@
     <img src="https://img.shields.io/github/stars/fernando-aristizabal?style=social&logo=github)&theme=dark">
   </a>
 </div>
+
+<hr style="border: 2px solid red;">
 
 ##### I'm a data scientist with experience in:
 <p>
@@ -85,6 +81,8 @@
   </li>
 </p>
 
+<hr style="border: 2px solid red;">
+
 #### :fire: My Stats :
 <table cellspacing="0" cellpadding="0">
   <tr>
@@ -93,6 +91,8 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=fernando-aristizabal&show_icons=true"></td>
   </tr>
 </table>
+
+<hr style="border: 2px solid red;">
 
 ### My recent GitHub activity
 
