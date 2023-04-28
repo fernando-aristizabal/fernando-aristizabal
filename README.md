@@ -93,12 +93,3 @@
 </table>
 
 <hr style="border: 2px solid red;">
-
-### My recent GitHub activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-
--->
