@@ -1,5 +1,11 @@
 ## Fernando Aristizabal
 
+<div class="center">
+  <span>Naturally Curious</span> • <span>Persistant</span> • <span>Detail Oriented</span>
+</div>
+
+<hr style="border: 2px solid red;">
+
 <div id="badges">
   <a href="http://www.linkedin.com/in/fernando-aristizabal">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue&style=plastic&logo=github"/>
