@@ -70,6 +70,10 @@
     </a>
     <a href="https://python-visualization.github.io/folium/">
       <img src="https://python-visualization.github.io/folium/_images/folium_logo.jpg" alt="Description of image" style="display:inline-block; width:40px;">
+    </a>
+    <a href="https://plotly.com">
+      <img src="https://dtyoc.files.wordpress.com/2015/11/plotly-logo.png?w=540&h=600" alt="Description of image" style="display:inline-block; width:40px;">
+    </a>
   </li>
   <li>
     databases
